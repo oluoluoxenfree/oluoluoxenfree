@@ -6,8 +6,6 @@ I'm Olu.
 
 💌 I've started a newsletter about the history of web and digital accessibility, live on substack at [Historica11y](https://historica11y.substack.com/)
 
-👍🏿 My pronouns are they/them.
-
 🔭 I’m currently looking for writing and speaking opportunities; [I have written for A List Apart](https://alistapart.com/article/building-the-woke-web/).
 
 🌱 I’m currently learning (more and more about) web accessibility, advanced React and Javascript, algorithms and computer science fundamentals, social justice, ukulele, sewing and making cosmetics. Feel free to chat to me about any of the above!

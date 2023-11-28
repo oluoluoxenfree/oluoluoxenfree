@@ -2,7 +2,7 @@
 
 I'm Olu.
 
-👩🏿‍💻 I'm currently a Javascript developer looking for new opportunities; I'm very interested in accessibility, maintainability and ethical technology.
+👩🏿‍💻 I'm currently developer in local government with a front-end focus; I'm very interested in accessibility, maintainability and ethical technology.
 
 💌 I've started a newsletter about the history of web and digital accessibility, live on substack at [Historica11y](https://historica11y.substack.com/)
 

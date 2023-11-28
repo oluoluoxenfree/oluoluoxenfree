@@ -10,4 +10,4 @@ I'm Olu.
 
 🌱 I’m currently learning (more and more about) web accessibility, advanced React and Javascript, algorithms and computer science fundamentals, social justice, ukulele, sewing and making cosmetics. Feel free to chat to me about any of the above!
 
-📫 You can reach me on Twitter or email.
+📫 You can reach me on Bluesky, Mastodon, Twitter (I guess!) or email.
